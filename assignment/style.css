@@ -1,13 +1,12 @@
 /* Add a background color to the header element */
 header {
    background-color: cornflowerblue;
-   text-align: center;
+   color: white;
 }
 /* Add a fun background color to the main element */
 main {
-    color: black;
-    background-color: lavenderblush;
-
+    background-color: lavender;
+    color: black
 
 }
 /* Align the h1 containing your name in the center of the header*/
@@ -17,18 +16,25 @@ h1 {
 /* Make your p tag a different color and italic */
 p {
     font-style: italic;
-    color: black;
+    color: white;
+
 }
 /* Put a border around your image */
 img {
-    border: 15px black;
-    border-color: black;
+    border: 3px orange;
+    border-radius: 10px;
+    border-style: dotted;
+    padding: 15px;
+
 }
 /* Change the font-family of your list */
+
 ul {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 /* Add a background color to the footer element */
 footer {
-    background-color: lightcyan;
+    background-color: cornflowerblue;
+    
 }
